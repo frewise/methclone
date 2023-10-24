@@ -22,7 +22,9 @@ cd /path/to/methclone/
 Method
 Open access
 Published: 27 September 2014
+
 [Dynamic evolution of clonal epialleles revealed by methclone](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0472-5)
+
 **Sheng Li**, Francine Garrett-Bakelman, Alexander E Perl, Selina M Luger, Chao Zhang, Bik L To, Ian D Lewis, Anna L Brown, Richard J D’Andrea, M Elizabeth Ross, Ross Levine, Martin Carroll, Ari Melnick & Christopher E Mason 
 Genome Biology volume 15, Article number: 472 (2014) Cite this article
 
